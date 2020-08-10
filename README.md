@@ -8,6 +8,7 @@ Interest in applied econometric analysis to understand the world. Passionate abo
 💌 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/gustavo-bruschi/)
 - [Research Gate](https://www.researchgate.net/profile/Gustavo_Bruschi2)
+- [Medium](https://medium.com/@gustavobruschi13)
 - Email: gusb13@live.com | gusbruschi_work@yahoo.com
 
 #datascience #economics #rstats #python #SQL #AutoML
