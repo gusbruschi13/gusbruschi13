@@ -11,4 +11,4 @@ Interest in applied econometric analysis to understand the world. Passionate abo
 - [Medium](https://medium.com/@gustavobruschi13)
 - Email: gusb13@live.com | gusbruschi_work@yahoo.com
 
-#datascience #economics #rstats #python #SQL #AutoML
+#datascience #economics #rstats #python #SQL #AutoML #AutoFE
