@@ -1,9 +1,11 @@
 #### Hello World 👋
 
 
-Undergraduate in Economics. Data Scientist at [PowerOfData](https://www.powerofdata.com.br/#fale-conosco). An start-up focused in fast implementation of data-driven culture in companies.
+Data Scientist at [PowerOfData](https://www.powerofdata.com.br/#fale-conosco). An start-up focused in fast implementation of data-driven culture in companies.
 
-Interest in applied econometric analysis to understand the world. Passionate about creating data-driven solutions that create value in companies. Problem solving profile, with knowledge in programming languages such as R, Python and SQL. 
+Graduated in Economics at [UFABC](https://www.ufabc.edu.br/), with a strong background in data analysis, traditional econometric modeling and machine learning. Knowledge in techniques of regression, classification, time series and clustering. I’m currently studying how to transform models into scalable products through MLOps.
+
+Tools: R, Python, SQL, Spark, AWS (CLI, S3, RDS, EMR, Lambda), Microsoft Power BI, Metabase, SAS, Teradata, QGIS, Eviews, Stata
 
 💌 Contact me:
 - [LinkedIn](https://www.linkedin.com/in/gustavo-bruschi/)
