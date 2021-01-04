@@ -1,5 +1,8 @@
 #### Hello World 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gusbruschi13&color=blueviolet" alt="gusbruschi13" /> </p>
+
+
 
 Data Scientist at [PowerOfData](https://powerofdata.com.br/contato.html). An start-up focused in fast implementation of data-driven culture in companies.
 
