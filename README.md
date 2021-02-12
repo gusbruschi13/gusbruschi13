@@ -10,10 +10,10 @@ Graduated in Economics at [UFABC](https://www.ufabc.edu.br/), with a strong back
 
 Tools: R, Python, SQL, Spark, AWS (CLI, S3, RDS, EMR, Lambda), Microsoft Power BI, Metabase, SAS, Teradata, QGIS, Eviews, Stata
 
-💌 Contact me:
+💌 How to find me:
 - [LinkedIn](https://www.linkedin.com/in/gustavo-bruschi/)
+- [Medium Articles](https://medium.com/@gustavobruschi13)
 - [Research Gate](https://www.researchgate.net/profile/Gustavo_Bruschi2)
-- [Medium](https://medium.com/@gustavobruschi13)
 - Email: gusb13@live.com | gusbruschi_work@yahoo.com
 
 #datascience #economics #rstats #python #SQL #AutoML #AutoFE
