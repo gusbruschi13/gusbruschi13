@@ -6,9 +6,9 @@
 
 Data Scientist at [Olist](https://olist.com/pt-br/).
 
-Graduated in Economics at [UFABC](https://www.ufabc.edu.br/), with a strong background in data analysis, traditional econometric modeling and machine learning. Knowledge in techniques of regression, classification, time series and clustering. I’m currently studying how to transform models into scalable products through MLOps and Multicloud Computing.
+I have been working with data for 6 years, I continue to achieve my main objective: to create and develop experiences that transform people's lives. I have a degree in Economics at [UFABC](https://www.ufabc.edu.br/), with a focus on Econometrics. In the market I learned about Machine Learning, fell in love and decided to study on my own. I have knowledge in regression, classification, time series, clustering and I am studying causal inference. Always learning new knowledge, currently focused on learning ML/MLOps Engineering and Behavioral Economics. I applied this expertise in the innovation of several industries such as finance, healthcare and ecommerce. I also wrote some articles about data science on
 
-‑ Tools: R, Python, SQL, Spark, AWS, OCI, Git, Docker, Kubernetes, Microsoft Power BI, Metabase, SAS, Teradata, QGIS, Eviews, Stata
+‑ Tools: R, Python, \textsc{SQL}, Spark, Git, Docker, Airflow/Composer, Databricks, Sagemaker, Kubeflow, QGIS
 
 💌 How to find me:
 - [LinkedIn](https://www.linkedin.com/in/gustavo-bruschi/)
@@ -16,4 +16,4 @@ Graduated in Economics at [UFABC](https://www.ufabc.edu.br/), with a strong back
 - [Research Gate](https://www.researchgate.net/profile/Gustavo_Bruschi2)
 - Email: gusb13@live.com | gusbruschi_work@yahoo.com
 
-#datascience #economics #rstats #python #SQL #AutoML #AutoFE #AutoETL
+#datascience #economics #rstats #python #SQL
