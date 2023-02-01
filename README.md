@@ -4,7 +4,7 @@
 
 
 
-Data Scientist at [Olist](https://olist.com/pt-br/).
+Data Scientist.
 
 I have been working with data for 6 years, I continue to achieve my main objective: to create and develop experiences that transform people's lives. I have a degree in Economics at [UFABC](https://www.ufabc.edu.br/), with a focus on Econometrics. In the market I learned about Machine Learning, fell in love and decided to study on my own.
 
