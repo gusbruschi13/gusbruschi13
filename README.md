@@ -11,8 +11,6 @@ I've knowledge in regression techniques, classification, time series, clustering
 
 I have applied this experience to innovating across industries like finance, healthcare, and e-commerce. I also wrote some articles about data science on [Medium](https://medium.com/@gustavobruschi13).
 
-‑ Tools: R, Python, SQL, Spark, Git, Docker, Airflow/Composer, Databricks, Sagemaker, Kubeflow, QGIS
-
 
 💌 How to find me:
 - [LinkedIn](https://www.linkedin.com/in/gustavo-bruschi/)
